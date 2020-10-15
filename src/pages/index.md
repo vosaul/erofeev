@@ -3,53 +3,53 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
-    title: This Is A Big Hero Headline
+    image: /images/hero.jpg
+    title: РА "ВИНТАЖ"
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Мы, не просто рекламное агентство, мы – рекламная мастерская, которая создаёт красивые эксклюзивные изделия из акрила, оргстекла, ПВХ и литого поликарбоната.
     actions:
-      - label: Learn More
+      - label: Узнать больше
         url: /features
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Наши услуги
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Мьі оказьіваем широкий спектр качественньіх рекламньіх услуг.
     features:
-      - title: The Best Feature of Your Services
-        image: images/feature1.png
+      - title: Брендирование транспорта
+        image: images/feature1.jpg
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Реклама на транспорте является одним из наиболее эффективных и дешевых методов рекламы товаров и услуг. С помощью оклейки плёнкой можно преобразовать весь автопарк Вашей компании в передвижной рекламный носитель, который будет работать 24 часа в сутки.
         actions:
-          - label: Learn More
+          - label: Узнать больше
             url: /features
-      - title: Awesome Feature of Your Services
-        image: images/feature2.png
+      - title: НАРУЖНАЯ РЕКЛАМА
+        image: images/feature2.jpg
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Наружная реклама — один из наиболее эффективных способов выделиться на фоне конкурентов и оптимальный инструмент для достижения поставленных целей.
         actions:
-          - label: Learn More
+          - label: Узнать больше
             url: /features
-      - title: Cool Feature of Your Services
-        image: images/feature3.png
+      - title: ИЗДЕЛИЯ ИЗ АКРИЛА
+        image: images/feature3.jpg
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Мы производим бесшовную склейку изделий из акрила. Благодаря качественной склейке акрила различными видами клеев (двухкомпонентными ,УФ клеями) с последующей обработкой шва, он становится практически невидимым и придает изделию вид монолитности.
         actions:
-          - label: Learn More
+          - label: Узнать больше
             url: /features
+      - title: ВЫСТАВОЧНЫЕ МАКЕТЫ
+        image: images/feature4.jpg
+        content: >-
+          Изготавливаем модели и макеты любой сложности, степени деталировки и масштаба. Выставочные макеты, музейные модели и диорамы, архитектурные, ландшафтные планы территории.
+        actions:
+          - label: Узнать больше
+            url: /features
+            
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Testimonials
+    title: Клиентьі о нас
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
@@ -72,10 +72,10 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Заказьівайте прямо сейчас!
+    subtitle: При заказе от 100 000 скидка 5%!
     actions:
-      - label: Get Started
+      - label: Сделать заказ
         url: /signup
   - section_id: recent-posts
     type: section_posts

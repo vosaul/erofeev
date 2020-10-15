@@ -1,20 +1,20 @@
 {
     "palette": "blue",
     "header": {
-        "title": "Azimuth",
+        "title": "РИА Винтаж",
         "logo_img": "images/logo.png",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Главная",
                 "url": "/"
             },
             {
-                "label": "Features",
+                "label": "Услуги",
                 "url": "/features"
             },
             {
-                "label": "Pricing",
+                "label": "Портфолио",
                 "url": "/pricing"
             },
             {

@@ -1,37 +1,19 @@
 ---
-title: Features
+title: БРЕНДИРОВАНИЕ ТРАНСПОРТА
 sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
-template: landing
+    image: images/feature1.озп
+    title: БРЕНДИРОВАНИЕ ТРАНСПОРТА
+template: page
 ---
+![Реклама на транспорте](/images/feature1.jpg)
+
+**Реклама на транспорте** является одним из наиболее эффективных и дешевых методов рекламы товаров и услуг. 
+
+С помощью оклейки плёнкой можно преобразовать весь автопарк Вашей компании в передвижной рекламный носитель, который будет работать 24 часа в сутки. Корпоративный транспорт фирмы является неотъемлемой частью рекламирования Ваших товаров или услуг на собственной площади, не требующий никакой платы за аренду рекламного носителя. Этот фактор позволяет экономить значительные деньги, которые могут быть направлены на расширение Вашего бизнеса. 
+
+Использование для брендирования общественного транспорта (автобусов, троллейбусов, трамваев, маршруток, вагонов метро), также является очень популярной и эффективной формой рекламы. С помощью этой формы динамической рекламы достигается широкий охват людской массы, движущейся на работу или домой, которая является целевой аудиторией Вашей рекламной кампании. Визуальное воздействие на потенциальных клиентов значительно усиливается за счет размеров транспортных средств, у которых площадь плоскостей с размещённой рекламой, достигает 10м2 и более.
+      
+Говоря другими словами, реклама на транспортных средствах является динамическим рекламным Мега носителем
