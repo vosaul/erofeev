@@ -10,27 +10,26 @@
                 "url": "/"
             },
             {
-                "label": "Услуги",
-                "url": "/features"
+                "label": "Брендирование транспорта",
+                "url": "/transport"
             },
             {
-                "label": "Портфолио",
-                "url": "/pricing"
+                "label": "Наружная реклама",
+                "url": "/outdor"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide"
+                "label": "Изделия из акрила",
+                "url": "/acrylic"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
-                "primary": true
+                "label": "Выставочные макеты",
+                "url": "/exhibition"
             }
         ]
     },
     "footer": {
         "logo_img": "images/logo_alt.png",
-        "tagline": "SaaS theme by Stackbit",
+        "tagline": "Рекламное агенство",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
