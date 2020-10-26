@@ -1,0 +1,32 @@
+.hero-block {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/hero.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  .block-content * {
+    color: #fff;
+  }
+}
+@media (min-width: 720px) {
+  .hero-block {
+    background-size: 100% auto;
+  }
+}
+@media (min-width: 801px) {
+  .block-content * {
+    text-align: left;
+  }
+  /*   .site-title {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -moz-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+  } */
+}
+.hero-block .block-content .button {
+  border-color: #fff;
+  background: transparent;
+}

@@ -1,12 +1,21 @@
 ---
-title: About Us
+title: О нас
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Мы, не просто рекламное агентство, мы – рекламная мастерская, которая создаёт красивые эксклюзивные изделия из акрила, оргстекла, ПВХ и литого поликарбоната. А хотите аквариум ? Да-да, аквариум, но не обычный, а с волнистыми стенками . Заинтересовались – нет проблем ! Мы изготовим его специально для Вас.
 image: images/about.jpg
 template: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Вы были за границей и видели красивый светильник в стиле Art, но привезти его домой очень дорого и неудобно ?
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Нет проблем, мы изготовим его по Вашим чертежам с учётом всех Ваших пожеланий !
+
+А как красиво будет смотреться барная стойка из гнутого акрила , если она подсвечивается разными цветами !
+У Вас красивый дом, но он не имеет своей индивидуальности ? Не беда, мы вместе с Вами придумаем логотип, и создадим
+красивую световую вывеску на Ваш дом, узнаваемую всеми Вашими знакомыми и друзями.
+
+Индивидуальный подход к каждому клиенту позволяет воплотить в жизнь Ваши оригинальные идеи: изготовить ресепшн из акрила с гнутыми элементами и светодиодной подсветкой; эксклюзивную акриловую мебель; гнутые криволинейные акриловые элементы для декора; прозрачные полусферы и сферы; промо-конструкции из оргстекла; защитные прозрачные криволинейные экраны; нестандартные светильники и разного рода осветительные элементы для ландшафтного дизайна, которые подчеркнут Вашу индивидуальность.
+
+Прекрасным решением для оформления магазина или выставочного стенда будут световые панели — вставки в стене из оргстекла с подсветкой.
+Мы – одна из немногих фирм, которая занимается гнутьём , склейкой и выдуванием изделий из толстого акрила.
+Мы изготавливаем изделия из акрила и оргстекла любым тиражом! Как начиная от одного экземпляра так и массово.

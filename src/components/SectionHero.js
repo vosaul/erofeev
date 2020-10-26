@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { withPrefix, markdownify } from '../utils';
+import { markdownify } from '../utils';
 import ActionLink from './ActionLink';
 
 export default class SectionHero extends React.Component {
@@ -10,12 +10,12 @@ export default class SectionHero extends React.Component {
         return (
             <section id={_.get(section, 'section_id', null)} className="block hero-block outer">
               <div className="inner">
-                <div className="grid">
-                  {_.get(section, 'image', null) && (
+                <div className="grid site-title">
+                  {/* {_.get(section, 'image', null) && (
                   <div className="cell block-preview">
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'title', null)} />
                   </div>
-                  )}
+                  )} */}
                   <div className="cell block-content">
                     {_.get(section, 'title', null) && (
                     <h2 className="block-title underline">{_.get(section, 'title', null)}</h2>
@@ -26,7 +26,7 @@ export default class SectionHero extends React.Component {
                     {_.get(section, 'actions', null) && (
                     <p className="block-buttons">
                       {_.map(_.get(section, 'actions', null), (action, action_idx) => (
-                        <ActionLink key={action_idx} {...this.props} action={action} class_names={'button white large'} />
+                        <ActionLink key={action_idx} {...this.props} action={action} class_names={'button large'} />
                       ))}
                     </p>
                     )}

@@ -9,7 +9,7 @@ sections:
       Мы, не просто рекламное агентство, мы – рекламная мастерская, которая создаёт красивые эксклюзивные изделия из акрила, оргстекла, ПВХ и литого поликарбоната.
     actions:
       - label: Узнать больше
-        url: /features
+        url: /about
   - section_id: features
     type: section_features
     background: gray
@@ -46,40 +46,40 @@ sections:
           - label: Узнать больше
             url: /exhibition
             
-  - section_id: reviews
-    type: section_reviews
-    background: white
-    title: Клиентьі о нас
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: call-to-action
-    type: section_cta
-    title: Заказьівайте прямо сейчас!
-    subtitle: При заказе от 100 000 скидка 5%!
-    actions:
-      - label: Сделать заказ
-        url: /signup
+#  - section_id: reviews
+#    type: section_reviews
+#    background: white
+#    title: Клиентьі о нас
+#    subtitle: >-
+#      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
+#      semper libero id sodales. 
+#    reviews:
+#      - author: John Doe
+#        avatar: images/review1.jpg
+#        content: >-
+#          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+#          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+#      - author: Jane Roe
+#        avatar: images/review2.jpg
+#        content: >-
+#          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
+#          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
+#          dui sollicitudin, vel posuere justo laoreet.
+#      - author: Richard Roe
+#        avatar: images/review3.jpg
+#        content: >-
+#          Integer consectetur purus neque, ac porttitor enim convallis vitae.
+#          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+#  - section_id: call-to-action
+#    type: section_cta
+#    title: Заказьівайте прямо сейчас!
+#    subtitle: При заказе от 100 000 скидка 5%!
+#    actions:
+#      - label: Сделать заказ
+#        url: /signup
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Наши последние работьі
 template: landing
 ---
