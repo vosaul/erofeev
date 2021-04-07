@@ -27,3 +27,6 @@ Stackbit Azimuth Theme original README is located [here](./README.theme.md).
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+site_key: 6Lcs_Z8aAAAAANr4dssNoVeFcDTvkcyHC0XqEf1i
+secret_key: 6Lcs_Z8aAAAAADjzlxXnIajPSifkL8BZHb9PRGGE
