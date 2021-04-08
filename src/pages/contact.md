@@ -4,10 +4,8 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: Напишіть нам
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      Ми завжди на зв'язку
 template: landing
 ---
