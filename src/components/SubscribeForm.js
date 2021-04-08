@@ -46,6 +46,7 @@ export default class SubscribeForm extends React.Component {
             <button
               className="button g-recaptcha"
               type="submit"
+              data-sitekey="6Lcs_Z8aAAAAANr4dssNoVeFcDTvkcyHC0XqEf1i"
             >
               Subscribe
             </button>
