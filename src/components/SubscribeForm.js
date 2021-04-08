@@ -1,42 +1,13 @@
-import React, { useState } from "react"
-import {
-  GoogleReCaptchaProvider,
-  GoogleReCaptcha,
-} from "react-google-recaptcha-v3";
+import React from 'react';
 
 
 export default class SubscribeForm extends React.Component {
   render() {
-      const [token, setToken] = useState()
-
-  const [serverState, setServerState] = useState({
-    submitting: false,
-    status: null
-  })
-  const handleServerResponse = (ok, msg, form) => {
-    setServerState({
-      submitting: false,
-      status: { ok, msg }
-    })
-    if (ok) {
-      form.reset()
-    }
-  }
-  const handleOnSubmit = e => {
-    e.preventDefault()
-    const form = e.target
-    setServerState({ submitting: true })
-    const data = new FormData(form)
-    data.append("g-recaptcha-response", token)
-
       function onSubmit(token) {
         document.getElementById("subscribe-form").submit();
       }
         return (
-                  <GoogleReCaptchaProvider reCaptchaKey="6LfSJOoUAAAAACo5FptLy5inFhJmhIPF9E9ekwsN">
-
           <form
-          onSubmit={handleOnSubmit}
             name="subscribeForm"
             method="POST"
             data-netlify-honeypot="bot-field"
@@ -75,15 +46,14 @@ export default class SubscribeForm extends React.Component {
             <button
               className="button g-recaptcha"
               type="submit"
-              data-sitekey="6Lcs_Z8aAAAAANr4dssNoVeFcDTvkcyHC0XqEf1i"
-              data-callback="onSubmit"
-              data-action="submit"
             >
               Subscribe
             </button>
+            <div
+              class="g-recaptcha"
+              data-sitekey="6Lcs_Z8aAAAAANr4dssNoVeFcDTvkcyHC0XqEf1i"
+            ></div>
           </form>
-                  </GoogleReCaptchaProvider>
-
         );
     }
 }

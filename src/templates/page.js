@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-
 import {Layout} from '../components/index';
 import {withPrefix, htmlToReact} from '../utils';
 
