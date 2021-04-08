@@ -44,17 +44,21 @@ export default class SubscribeForm extends React.Component {
               value="subscribeForm"
             />
             <button
-              className="button g-recaptcha"
+              className="button"
               type="submit"
-              data-sitekey="6Lcs_Z8aAAAAANr4dssNoVeFcDTvkcyHC0XqEf1i"
             >
               Subscribe
             </button>
             <div
               class="g-recaptcha"
-              data-sitekey="6Lcs_Z8aAAAAANr4dssNoVeFcDTvkcyHC0XqEf1i"
+              data-sitekey="6Ld0laEaAAAAAJ1GtbTSsAXUnXu7pzp2C2-0ONgm"
             ></div>
           </form>
         );
     }
 }
+/*
+site: 6Ld0laEaAAAAAJ1GtbTSsAXUnXu7pzp2C2-0ONgm
+6Ld0laEaAAAAAHISBS2z3kCMQZtJLntbPz3EFTk0
+
+*/
